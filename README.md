@@ -1,5 +1,3 @@
-# fraudwatch
-Banking transaction anomaly detection system using Python, SQL, SQLite, and Z-score statistical analysis to identify suspicious transactions and generate AML-style activity reports.
 # FraudWatch
 
 A transaction anomaly detection system that identifies potentially suspicious banking activity using SQL and statistical analysis — built to simulate the kind of pattern detection used in real-world AML (Anti-Money Laundering) and fraud monitoring workflows.
